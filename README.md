@@ -3,7 +3,7 @@
 This program takes the input of a google chat takeout .json file and returns text.
 
 ### Usage
-gchat-parse.py [-h] filename
+gchat_parse.py [-h] filename
 
 positional arguments:
   filename    JSON file from takeout of Google Chat
